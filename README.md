@@ -42,7 +42,7 @@
 
     git clone https://github.com/punlop/KA
 
-    cd inexbots
+    cd KA
 
     python3 kagame4.py
 
@@ -85,7 +85,7 @@
     git clone git clone https://github.com/punlop/KA
 
 
-    inexbots cd
+    cd KA
 
     python3 kagame4.py
 
