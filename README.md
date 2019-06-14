@@ -40,7 +40,7 @@
 
     sudo pip3 install youtube_dl
 
-    git clone https://github.com/fajarprasetiya/KAGAME
+    git clone https://github.com/punlop/KA
 
     cd KAGAME
 
@@ -82,7 +82,7 @@
 
     pip3 install tweepy
 
-    git clone https://github.com/fajarprasetiya/KAGAME
+    git clone https://github.com/punlop/KA
 
     cd KAGAME
 
