@@ -40,9 +40,9 @@
 
     sudo pip3 install youtube_dl
 
-    git clone https://github.com/punlop/KA
+    git clone https://github.com/punlop/inexbots
 
-    cd KAGAME
+    cd inexbots
 
     python3 kagame4.py
 
@@ -82,9 +82,10 @@
 
     pip3 install tweepy
 
-    git clone https://github.com/punlop/KA
+    git clone git clone https://github.com/punlop/lnexbots
 
-    cd KAGAME
+
+    cd inexbots
 
     python3 kagame4.py
 
